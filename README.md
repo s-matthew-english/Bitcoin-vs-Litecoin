@@ -1,8 +1,8 @@
 # Bitcoin vs. Litecoin: `chainparams.cpp` 
 
-This is repository demonstrates the text and code samples herein highlight differences between Bitcoin and Litecoin. 
-As you can see, large parts of the codebase as identical. 
-In this article we are interested in the components that are *not* identical. 
+The text and code samples in this repository highlight the salient differences between Bitcoin and Litecoin. 
+As you will see, large parts of the codebase as identical. 
+We are interested in the components that are *not* identical. 
 Because we are on a mission to create a new altcoin, here we go…
 
 ---
